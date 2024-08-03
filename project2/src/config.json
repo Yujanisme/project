@@ -1,0 +1,5 @@
+{
+    "mongoURI": "http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=test&table=account",
+    "JWT_SIGN_SECRET": "secrettoken",
+    "aes_encrypt":"myprojectencrtptkey"
+}
